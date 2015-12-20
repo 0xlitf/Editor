@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<screen id="2">
+  <property
+      type="66"
+      name="backgroundBrush"
+      value=""/>
+  <property
+    type="66"
+    name="foregroundBrush"
+    value=""/>
+  <property type="0" name="itemIndexMethod" value=""/>
+  <property type="20" name="sceneRect" value="0,0,400,300"/>
+  <property type="2" name="bspTreeDepth" value="5"/>
+  <property type="68" name="palette" value=""/>
+  <property type="64" name="font" value="SimSun,9,-1,5,50,0,0,0,0,0"/>
+  <property type="1" name="sortCacheEnabled" value="false"/>
+  <property type="1" name="stickyFocus" value="false"/>
+  <property type="6" name="minimumRenderSize" value="0"/>
+  <property type="1" name="RepeatBkgPixmap" value="false"/>
+  <property type="10" name="BackgroundPixmap" value=""/>
+  <property type="10" name="CurrentPage" value="root.ScreenPageBase_1"/>
+  <page name="root">
+    <property type="26" name="pos" value="0,0"/>
+    <property type="22" name="size" value="0,0"/>
+    <property type="67" name="BackColor" value="0,0,0,0"/>
+    <property type="67" name="FrameColor" value="0,0,0,0"/>
+    <property type="2" name="FrameWidth" value="1"/>
+    <property type="10" name="BackgroundPixmap" value=""/>
+    <page name="ScreenPageBase_0">
+      <property type="26" name="pos" value="0,0"/>
+      <property type="22" name="size" value="0,0"/>
+      <property type="67" name="BackColor" value="0,0,0,0"/>
+      <property type="67" name="FrameColor" value="0,0,0,0"/>
+      <property type="2" name="FrameWidth" value="1"/>
+      <property type="10" name="BackgroundPixmap" value=""/>
+      <item calssName="HMIButtonItem" itemName="hmibuttonitem">
+        <property type="6" name="opacity" value="1"/>
+        <property type="1" name="enabled" value="true"/>
+        <property type="1" name="visible" value="true"/>
+        <property type="26" name="pos" value="-99,-96"/>
+        <property type="22" name="size" value="80,28"/>
+        <property type="6" name="z" value="0"/>
+        <property type="6" name="rotation" value="0"/>
+        <property type="6" name="scale" value="1"/>
+        <property type="26" name="transformOriginPoint" value="0,0"/>
+        <property type="10" name="text" value="Button"/>
+        <property type="10" name="Mask" value=""/>
+        <property type="2" name="alignment" value="132"/>
+        <property type="64" name="font" value="SimSun,9,-1,5,50,0,0,0,0,0"/>
+        <property type="67" name="TextColor" value="0,0,0,255"/>
+        <property type="67" name="BackColor" value="240,240,240,255"/>
+        <property type="10" name="NormalImage" value=""/>
+        <property type="10" name="PressedImage" value=""/>
+        <property type="1" name="Splash" value="false"/>
+        <property type="10" name="SplashImage" value=""/>
+      </item>
+    </page>
+    <page name="ScreenPageBase_1">
+      <property type="26" name="pos" value="0,0"/>
+      <property type="22" name="size" value="0,0"/>
+      <property type="67" name="BackColor" value="0,0,0,0"/>
+      <property type="67" name="FrameColor" value="0,0,0,0"/>
+      <property type="2" name="FrameWidth" value="1"/>
+      <property type="10" name="BackgroundPixmap" value=""/>
+    </page>
+  </page>
+</screen>

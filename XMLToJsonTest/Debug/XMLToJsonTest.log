@@ -1,0 +1,15 @@
+﻿生成启动时间为 2015/8/12 15:44:49。
+     1>项目“D:\Projects_VS2013\Editor\XMLToJsonTest\XMLToJsonTest.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I. /IC:\Qt\Qt5.5.0\5.5\msvc2013\include /I.\GeneratedFiles\Debug /IC:\Qt\Qt5.5.0\5.5\msvc2013\include\QtCore /IC:\Qt\Qt5.5.0\5.5\msvc2013\include\QtGui /IC:\Qt\Qt5.5.0\5.5\msvc2013\include\QtXml /IC:\Qt\Qt5.5.0\5.5\msvc2013\include\QtXmlPatterns /I./include /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_XML_LIB /D QT_XMLPATTERNS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\projects_vs2013\editor\xmltojsontest\main.cpp(103): warning C4700: 使用了未初始化的局部变量“end_time”
+     1>d:\projects_vs2013\editor\xmltojsontest\main.cpp(103): warning C4700: 使用了未初始化的局部变量“start_time”
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Projects_VS2013\Editor\Win32\Debug\\XMLToJsonTest.exe" /NOLOGO /LIBPATH:C:\Qt\Qt5.5.0\5.5\msvc2013\lib /LIBPATH:"C:\Program Files (x86)\Visual Leak Detector\lib\Win32" qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Xmld.lib Qt5XmlPatternsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Projects_VS2013\Editor\Win32\Debug\XMLToJsonTest.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Projects_VS2013\Editor\Win32\Debug\XMLToJsonTest.lib" /MACHINE:X86 /SAFESEH Debug\main.obj
+         XMLToJsonTest.vcxproj -> D:\Projects_VS2013\Editor\Win32\Debug\XMLToJsonTest.exe
+     1>已完成生成项目“D:\Projects_VS2013\Editor\XMLToJsonTest\XMLToJsonTest.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.13

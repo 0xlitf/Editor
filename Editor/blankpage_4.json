@@ -1,0 +1,32 @@
+{
+    "screen": {
+        "id": "blankpage_4.json",
+        "property": [
+            { "type": "66", "name": "backgroundBrush", "value": "" },
+            { "type": "66", "name": "foregroundBrush", "value": "" },
+            { "type": "0", "name": "itemIndexMethod", "value": "" },
+            { "type": "20", "name": "sceneRect", "value": "0,0,500,500" },
+            { "type": "2", "name": "bspTreeDepth", "value": "5" },
+            { "type": "68", "name": "palette", "value": "" },
+            { "type": "64", "name": "font", "value": "SimSun,9,-1,5,50,0,0,0,0,0" },
+            { "type": "1", "name": "sortCacheEnabled", "value": "false" },
+            { "type": "1", "name": "stickyFocus", "value": "false" },
+            { "type": "6", "name": "minimumRenderSize", "value": "0" },
+            { "type": "1", "name": "RepeatBkgPixmap", "value": "false" },
+            { "type": "10", "name": "BackgroundPixmap", "value": "" },
+            { "type": "10", "name": "CurrentPage", "value": "root" }],
+        "root page":      {
+        "type":"page",
+        "name": "root",
+        "property": [
+            { "type": "26", "name": "pos", "value": "0,0" },
+            { "type": "22", "name": "size", "value": "100,100" },
+            { "type": "67", "name": "BackColor", "value": "100,100,100,100" },
+            { "type": "67", "name": "FrameColor", "value": "100,100,100,100" },
+            { "type": "2", "name": "FrameWidth", "value": "1" },
+            { "type": "10", "name": "BackgroundPixmap", "value": "" }],
+        "sub item": [        ],
+        "sub page": [        ]
+            }
+    }
+}

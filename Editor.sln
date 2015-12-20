@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Editor", "Editor\Editor.vcxproj", "{B12702AD-ABFB-343A-A199-8E24837244A3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Property", "Property\Property.vcxproj", "{BC5146FE-8BD3-4DAA-8534-CA090F4EA9DC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Preview", "Preview\Preview.vcxproj", "{0D3F4FBF-6EF5-4CFE-A3C9-E6CAC14A5378}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PropertyTest", "PropertyTest\PropertyTest.vcxproj", "{1479B0C7-82AE-4E99-A446-7535871FCC19}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QJsonTest", "QJsonTest\QJsonTest.vcxproj", "{DAC406E5-8769-43F5-8005-FB1C0D733CFD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "XMLToJsonTest", "XMLToJsonTest\XMLToJsonTest.vcxproj", "{B90940AB-29F5-4028-884E-03EDF941A21C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test", "Test\Test.vcxproj", "{69D0E9B5-6922-4AB8-885B-548666D0AA69}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{C45CCB2B-DAF6-4969-9AEA-179253A69A8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B12702AD-ABFB-343A-A199-8E24837244A3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B12702AD-ABFB-343A-A199-8E24837244A3}.Debug|Win32.Build.0 = Debug|Win32
+		{B12702AD-ABFB-343A-A199-8E24837244A3}.Release|Win32.ActiveCfg = Release|Win32
+		{B12702AD-ABFB-343A-A199-8E24837244A3}.Release|Win32.Build.0 = Release|Win32
+		{BC5146FE-8BD3-4DAA-8534-CA090F4EA9DC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BC5146FE-8BD3-4DAA-8534-CA090F4EA9DC}.Debug|Win32.Build.0 = Debug|Win32
+		{BC5146FE-8BD3-4DAA-8534-CA090F4EA9DC}.Release|Win32.ActiveCfg = Release|Win32
+		{BC5146FE-8BD3-4DAA-8534-CA090F4EA9DC}.Release|Win32.Build.0 = Release|Win32
+		{0D3F4FBF-6EF5-4CFE-A3C9-E6CAC14A5378}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0D3F4FBF-6EF5-4CFE-A3C9-E6CAC14A5378}.Debug|Win32.Build.0 = Debug|Win32
+		{0D3F4FBF-6EF5-4CFE-A3C9-E6CAC14A5378}.Release|Win32.ActiveCfg = Release|Win32
+		{0D3F4FBF-6EF5-4CFE-A3C9-E6CAC14A5378}.Release|Win32.Build.0 = Release|Win32
+		{1479B0C7-82AE-4E99-A446-7535871FCC19}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1479B0C7-82AE-4E99-A446-7535871FCC19}.Debug|Win32.Build.0 = Debug|Win32
+		{1479B0C7-82AE-4E99-A446-7535871FCC19}.Release|Win32.ActiveCfg = Release|Win32
+		{1479B0C7-82AE-4E99-A446-7535871FCC19}.Release|Win32.Build.0 = Release|Win32
+		{DAC406E5-8769-43F5-8005-FB1C0D733CFD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DAC406E5-8769-43F5-8005-FB1C0D733CFD}.Debug|Win32.Build.0 = Debug|Win32
+		{DAC406E5-8769-43F5-8005-FB1C0D733CFD}.Release|Win32.ActiveCfg = Release|Win32
+		{DAC406E5-8769-43F5-8005-FB1C0D733CFD}.Release|Win32.Build.0 = Release|Win32
+		{B90940AB-29F5-4028-884E-03EDF941A21C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B90940AB-29F5-4028-884E-03EDF941A21C}.Debug|Win32.Build.0 = Debug|Win32
+		{B90940AB-29F5-4028-884E-03EDF941A21C}.Release|Win32.ActiveCfg = Release|Win32
+		{B90940AB-29F5-4028-884E-03EDF941A21C}.Release|Win32.Build.0 = Release|Win32
+		{69D0E9B5-6922-4AB8-885B-548666D0AA69}.Debug|Win32.ActiveCfg = Debug|Win32
+		{69D0E9B5-6922-4AB8-885B-548666D0AA69}.Debug|Win32.Build.0 = Debug|Win32
+		{69D0E9B5-6922-4AB8-885B-548666D0AA69}.Release|Win32.ActiveCfg = Release|Win32
+		{69D0E9B5-6922-4AB8-885B-548666D0AA69}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1479B0C7-82AE-4E99-A446-7535871FCC19} = {C45CCB2B-DAF6-4969-9AEA-179253A69A8B}
+		{DAC406E5-8769-43F5-8005-FB1C0D733CFD} = {C45CCB2B-DAF6-4969-9AEA-179253A69A8B}
+		{B90940AB-29F5-4028-884E-03EDF941A21C} = {C45CCB2B-DAF6-4969-9AEA-179253A69A8B}
+		{69D0E9B5-6922-4AB8-885B-548666D0AA69} = {C45CCB2B-DAF6-4969-9AEA-179253A69A8B}
+	EndGlobalSection
+EndGlobal

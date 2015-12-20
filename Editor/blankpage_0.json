@@ -1,0 +1,129 @@
+{
+    "screen": {
+        "id": "blankpage_0.json",
+        "property": [
+            { "type": "66", "name": "backgroundBrush", "value": "" },
+            { "type": "66", "name": "foregroundBrush", "value": "" },
+            { "type": "0", "name": "itemIndexMethod", "value": "" },
+            { "type": "20", "name": "sceneRect", "value": "0,0,500,500" },
+            { "type": "2", "name": "bspTreeDepth", "value": "5" },
+            { "type": "68", "name": "palette", "value": "" },
+            { "type": "64", "name": "font", "value": "SimSun,9,-1,5,50,0,0,0,0,0" },
+            { "type": "1", "name": "sortCacheEnabled", "value": "false" },
+            { "type": "1", "name": "stickyFocus", "value": "false" },
+            { "type": "6", "name": "minimumRenderSize", "value": "0" },
+            { "type": "1", "name": "RepeatBkgPixmap", "value": "false" },
+            { "type": "10", "name": "BackgroundPixmap", "value": "" },
+            { "type": "10", "name": "CurrentPage", "value": "root.EditorPage_0" }],
+        "root page":      {
+        "type":"page",
+        "name": "root",
+        "property": [
+            { "type": "26", "name": "pos", "value": "0,0" },
+            { "type": "22", "name": "size", "value": "100,100" },
+            { "type": "67", "name": "BackColor", "value": "100,100,100,100" },
+            { "type": "67", "name": "FrameColor", "value": "100,100,100,100" },
+            { "type": "2", "name": "FrameWidth", "value": "1" },
+            { "type": "10", "name": "BackgroundPixmap", "value": "" }],
+        "sub item": [    {
+        "type":"item",
+        "className": "ButtonItem",
+        "itemName" : "buttonitem",
+        "property": [
+            {"type": "6", "name": "opacity", "value": "1" },
+            {"type": "1", "name": "enabled", "value": "true" },
+            {"type": "1", "name": "visible", "value": "true" },
+            {"type": "26", "name": "pos", "value": "97,94" },
+            {"type": "22", "name": "size", "value": "80,28" },
+            {"type": "6", "name": "z", "value": "0" },
+            {"type": "6", "name": "rotation", "value": "0" },
+            {"type": "6", "name": "scale", "value": "1" },
+            {"type": "26", "name": "transformOriginPoint", "value": "0,0" },
+            {"type": "10", "name": "text", "value": "Button" },
+            {"type": "10", "name": "Mask", "value": "" },
+            {"type": "2", "name": "alignment", "value": "132" },
+            {"type": "64", "name": "font", "value": "SimSun,9,-1,5,50,0,0,0,0,0" },
+            {"type": "67", "name": "TextColor", "value": "0,0,0,255" },
+            {"type": "67", "name": "BackColor", "value": "240,240,240,255" }]
+            },
+    {
+        "type":"item",
+        "className": "ButtonItem",
+        "itemName" : "buttonitem",
+        "property": [
+            {"type": "6", "name": "opacity", "value": "1" },
+            {"type": "1", "name": "enabled", "value": "true" },
+            {"type": "1", "name": "visible", "value": "true" },
+            {"type": "26", "name": "pos", "value": "157,177" },
+            {"type": "22", "name": "size", "value": "80,28" },
+            {"type": "6", "name": "z", "value": "0" },
+            {"type": "6", "name": "rotation", "value": "0" },
+            {"type": "6", "name": "scale", "value": "1" },
+            {"type": "26", "name": "transformOriginPoint", "value": "0,0" },
+            {"type": "10", "name": "text", "value": "Button" },
+            {"type": "10", "name": "Mask", "value": "" },
+            {"type": "2", "name": "alignment", "value": "132" },
+            {"type": "64", "name": "font", "value": "SimSun,9,-1,5,50,0,0,0,0,0" },
+            {"type": "67", "name": "TextColor", "value": "0,0,0,255" },
+            {"type": "67", "name": "BackColor", "value": "240,240,240,255" }]
+            }
+        ],
+        "sub page": [     {
+        "type":"page",
+        "name": "EditorPage_0",
+        "property": [
+            { "type": "26", "name": "pos", "value": "0,0" },
+            { "type": "22", "name": "size", "value": "100,100" },
+            { "type": "67", "name": "BackColor", "value": "100,100,100,100" },
+            { "type": "67", "name": "FrameColor", "value": "100,100,100,100" },
+            { "type": "2", "name": "FrameWidth", "value": "1" },
+            { "type": "10", "name": "BackgroundPixmap", "value": "" }],
+        "sub item": [    {
+        "type":"item",
+        "className": "ButtonItem",
+        "itemName" : "buttonitem",
+        "property": [
+            {"type": "6", "name": "opacity", "value": "1" },
+            {"type": "1", "name": "enabled", "value": "true" },
+            {"type": "1", "name": "visible", "value": "true" },
+            {"type": "26", "name": "pos", "value": "136,241" },
+            {"type": "22", "name": "size", "value": "80,28" },
+            {"type": "6", "name": "z", "value": "0" },
+            {"type": "6", "name": "rotation", "value": "0" },
+            {"type": "6", "name": "scale", "value": "1" },
+            {"type": "26", "name": "transformOriginPoint", "value": "0,0" },
+            {"type": "10", "name": "text", "value": "Button" },
+            {"type": "10", "name": "Mask", "value": "" },
+            {"type": "2", "name": "alignment", "value": "132" },
+            {"type": "64", "name": "font", "value": "SimSun,9,-1,5,50,0,0,0,0,0" },
+            {"type": "67", "name": "TextColor", "value": "0,0,0,255" },
+            {"type": "67", "name": "BackColor", "value": "240,240,240,255" }]
+            },
+    {
+        "type":"item",
+        "className": "ButtonItem",
+        "itemName" : "buttonitem",
+        "property": [
+            {"type": "6", "name": "opacity", "value": "1" },
+            {"type": "1", "name": "enabled", "value": "true" },
+            {"type": "1", "name": "visible", "value": "true" },
+            {"type": "26", "name": "pos", "value": "218,317" },
+            {"type": "22", "name": "size", "value": "80,28" },
+            {"type": "6", "name": "z", "value": "0" },
+            {"type": "6", "name": "rotation", "value": "0" },
+            {"type": "6", "name": "scale", "value": "1" },
+            {"type": "26", "name": "transformOriginPoint", "value": "0,0" },
+            {"type": "10", "name": "text", "value": "Button" },
+            {"type": "10", "name": "Mask", "value": "" },
+            {"type": "2", "name": "alignment", "value": "132" },
+            {"type": "64", "name": "font", "value": "SimSun,9,-1,5,50,0,0,0,0,0" },
+            {"type": "67", "name": "TextColor", "value": "0,0,0,255" },
+            {"type": "67", "name": "BackColor", "value": "240,240,240,255" }]
+            }
+        ],
+        "sub page": [        ]
+            }
+        ]
+            }
+    }
+}
